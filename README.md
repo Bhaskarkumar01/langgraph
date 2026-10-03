@@ -158,15 +158,3 @@ Output:
 ## Repository Progress
 
 This repository will be updated continuously as I learn more LangGraph concepts.
-
-Current practice includes:
-
-```text
-0_test_installation.ipynb
-1.bmi_workflow.ipynb
-2.simple_llm_workflow.ipynb
-3.prompt_chainnig.ipynb
-4_batsman_workflow.ipynb
-```
-
-Future topics will include conditional routing, tool calling, memory, RAG, agents and more advanced agentic workflows.
